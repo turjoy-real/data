@@ -20,6 +20,13 @@
       "age": "23",
       "address": "Ranaghat",
       "activity" : "aerobics"
+    },
+     {
+      "id":4,
+      "userName": "Ronit",
+      "age": "23",
+      "address": "Kolkata",
+      "activity" : "aerobics"
     }
   ]
 }
