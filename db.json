@@ -5,7 +5,21 @@
       "userName": "Turjoy Saha",
       "age": "23",
       "address": "Kalyani",
-      "fitnessActivity" : "yoga"
+      "activity" : "yoga"
+    },
+    {
+      "id":1,
+      "userName": "Rohan Saha",
+      "age": "23",
+      "address": "Kalyani",
+      "activity" : "yoga"
+    },
+    {
+      "id":1,
+      "userName": "Rumi",
+      "age": "23",
+      "address": "Ranaghat",
+      "activity" : "aerobics"
     }
   ]
 }
