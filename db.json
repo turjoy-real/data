@@ -28,5 +28,36 @@
       "address": "Kolkata",
       "activity" : "aerobics"
     }
-  ]
+  ],
+  "clients": [
+    {
+      "id":1,
+      "userName": "Turjoy Saha",
+      "phoneNumber": "2789456123",
+      "companyName" : "XYZ",
+      "address": "Kalyani",
+      "dateJoined" : "Wed Aug 11 2021 15:17:10 GMT+0530 (IST)"
+    },
+    {
+      "id":1,
+      "userName": "Turjoy Saha",
+      "phoneNumber": "2789456123",
+      "companyName" : "XYZ",
+      "address": "Kalyani",
+      "dateJoined" : "Wed Aug 11 2021 15:17:10 GMT+0530 (IST)"
+    },{
+      "id":1,
+      "userName": "Turjoy Saha",
+      "phoneNumber": "2789456123",
+      "companyName" : "XYZ",
+      "address": "Kalyani",
+      "dateJoined" : "Wed Aug 11 2021 15:17:10 GMT+0530 (IST)"
+    },{
+      "id":1,
+      "userName": "Turjoy Saha",
+      "phoneNumber": "2789456123",
+      "companyName" : "XYZ",
+      "address": "Kalyani",
+      "dateJoined" : "Wed Aug 11 2021 15:17:10 GMT+0530 (IST)"
+    },
 }
